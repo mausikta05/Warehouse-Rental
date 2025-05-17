@@ -88,3 +88,4 @@ Make sure to initialize the module first by calling initialize() before creating
 
 📜 License
 MIT License - Use freely with attribution.
+0xf08602567c230482c7e8a24842ed170474c9560a304ef9d8b1342140a381dc10
